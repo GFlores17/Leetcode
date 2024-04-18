@@ -36,3 +36,4 @@ var reverseWords = function(s) {
     console.log("joined array:", stringifiedWordsArray)
     return stringifiedWordsArray;
 };
+
